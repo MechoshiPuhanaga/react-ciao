@@ -4,7 +4,7 @@ import React, { PureComponent } from 'react';
  * Used to add css classes during the enter
  * and exit stages of the children.
  *
- * The Gateway has the following props:
+ * The component has the following props:
  *
  * enterClass - {string} - a class name from the stylesheets
  * exitClass - {string} - a class name from the stylesheets

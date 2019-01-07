@@ -1,6 +1,6 @@
 {
   "name": "react-ciao",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enter and exit your React components with style",
   "main": "dist/index.js",
   "scripts": {

@@ -1,4 +1,4 @@
-# React scroller component
+# React Ciao
 
 Used to add css classes to its children while they are entering or exiting the DOM.
 
